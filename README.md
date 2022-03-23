@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Sinchan
+#### I am an **ML** enthusiast, **data** freak and a **python** lover.
 
-<!--
-**SinXfactor/SinXfactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PYTHON / HTML / CSS / JS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my project **Graphython**, which is a simple GUI based presentation of python's `matplotlib` library. 
+- 🌱 I’m currently learning SQL & ML 
+- 📫 How to reach me: sinchan.tex@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SinXfactor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ss-sinchan/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BWhnZiW4JQ3%2BYDUyWcK5cQA%3D%3D/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SinXfactor)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SinXfactor&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/SinXfactor)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/SinXfactor)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/SinXfactor)  
