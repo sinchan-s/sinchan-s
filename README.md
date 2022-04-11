@@ -3,9 +3,9 @@
 
 > Skills: PYTHON / HTML / CSS / JS
 
-- 🔭 I’m currently working on my repo everything_data_science. 
-- 🌱 I’m currently learning SQL & ML 
-- 💻 Notable project **Graphython**, which is a simple GUI based presentation of python's `matplotlib` library
+- 🔭 I’m currently working on my repo [everything_data_science](https://github.com/SinXfactor/everything_data_science). 
+- 🌱 I’m currently learning [ML](https://github.com/SinXfactor/everything_data_science/blob/main/ML_practice.ipynb) & SQL
+- 💻 Notable project [**Graphython**](https://github.com/SinXfactor/graphython), which is a simple GUI based presentation of python's `matplotlib` library
 - 📫 How to reach me: sinchan.tex@gmail.com 
 
 
