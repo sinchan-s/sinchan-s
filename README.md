@@ -1,4 +1,4 @@
-## Namaste 🙏, my name is **Sinchan**
+## Namaste 🙏[<img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona' height='30' >], my name is **Sinchan**
 ### I am an *ML* enthusiast & *data* freak.
 
 > Skills: PYTHON / HTML / CSS / JS
