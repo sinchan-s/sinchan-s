@@ -9,5 +9,5 @@
 - 📫 How to reach me: sinchan.tex@gmail.com 
 
 
-[<img src='https://octodex.github.com/images/daftpunktocat-thomas.gif' alt='github' height='100' >](https://github.com/SinXfactor)
+[<img src='https://www.kaggle.com/static/images/tier-animation-transparent.gif' alt='github' height='100' >](https://www.kaggle.com/sinchans)
 [<img src='https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1' alt='linkedin' height='100'>](https://www.linkedin.com/in/ss-sinchan/)  
