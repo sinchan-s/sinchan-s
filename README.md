@@ -1,10 +1,10 @@
-## Namaste [<img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona-loading' height='30' >](https://github.com/SinXfactor/bangalore-house-prediction-ml-with-site), my name is **Sinchan**
-### I am an *ML* enthusiast & *data* freak.
+## Hey there!, my name is **Sinchan**
+### I am a *Machine Learning* enthusiast with *data* wrangling attributes 😉.
 
-> Skills: PYTHON / HTML / CSS / JS
+> Checkout my github page [link](https://sinxfactor.github.io/) [<img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona-loading' height='30' >](https://github.com/SinXfactor/bangalore-house-prediction-ml-with-site)
 
 - 🔭 I’m currently working on my repo [everything_data_science](https://github.com/SinXfactor/everything_data_science). 
-- 🌱 I’m currently learning [ML](https://github.com/SinXfactor/everything_data_science/blob/main/ML_practice.ipynb) & SQL
+- 🌱 I’m currently getting 'Hands on with [ML](https://github.com/SinXfactor/Hands-on_ML)' & SQL
 - 💻 Notable project [**Graphython**](https://github.com/SinXfactor/graphython), which is a simple GUI based presentation of python's `matplotlib` library
 - 📫 How to reach me: sinchan.tex@gmail.com 
 
