@@ -1,13 +1,33 @@
-## Hey there!, my name is **Sinchan**
-### I am a *Machine Learning* enthusiast with *data* wrangling attributes 😉.
+<h1 align="center"> Hey there!, I'm <strong>Sinchan</strong> </h1>
+<h3 align="left"> I am a <em>Machine Learning</em> enthusiast with <em>data</em> wrangling attributes 😉.</h3>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinxfactor" alt="sinxfactor" /> </p>
 
-> Checkout my github page [link](https://sinxfactor.github.io/) [<img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona-loading' height='30' >](https://github.com/SinXfactor/bangalore-house-prediction-ml-with-site)
+<blockquote> Checkout my github page <a href="https://sinxfactor.github.io/" target="_blank">link</a> <a href="https://github.com/SinXfactor/bangalore-house-prediction-ml-with-site"><img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona-loading' height='30'></a></blockquote>
 
-- 🔭 I’m currently working on my repo [everything_data_science](https://github.com/SinXfactor/everything_data_science). 
-- 🌱 I’m currently getting 'Hands on with [ML](https://github.com/SinXfactor/Hands-on_ML)' & SQL
-- 💻 Notable project [**Graphython**](https://github.com/SinXfactor/graphython), which is a simple GUI based presentation of python's `matplotlib` library
-- 📫 How to reach me: sinchan.tex@gmail.com 
+<ul>
+<li>🔭 I’m currently working on my repo <a href="https://github.com/SinXfactor/everything_data_science" target="_blank">everything_data_science</a>.</li>
+<li> 🌱 I’m currently getting 'Hands on with <a href="https://github.com/SinXfactor/Hands-on_ML" target="_blank"><b>ML</b></a>' & SQL</li>
+<li> 💻 Notable project <a href="https://github.com/SinXfactor/graphython" target="_blank"><b>Graphython</b></a>, which is a simple GUI based presentation of python's <code>matplotlib</code> library</li>
+<li> 📫 You can reach me via <a href="mailto:sinchan.tex@gmail.com">email</a> </li>
+</ul>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/opensource.svg" alt="opensource" width="40" height="40"/> </a>
+</p>
 
-[<img src='https://www.kaggle.com/static/images/tier-animation-transparent.gif' alt='github' height='100' >](https://www.kaggle.com/sinchans)
-[<img src='https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1' alt='linkedin' height='100'>](https://www.linkedin.com/in/ss-sinchan/)  
+<h4 align="left">Connect with me:</h4>
+<a href="https://www.kaggle.com/sinchans" target="_blank"><img src='https://www.kaggle.com/static/images/tier-animation-transparent.gif' alt='github' height='60'></a>
+<a href="https://www.linkedin.com/in/ss-sinchan/" target="_blank"><img src='https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1' alt='linkedin' height='60'></a> 
