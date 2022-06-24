@@ -29,6 +29,6 @@
 <a href="https://opensource.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <a href="https://www.kaggle.com/sinchans" target="_blank"><img src='https://www.kaggle.com/static/images/tier-animation-transparent.gif' alt='github' height='60'></a>
 <a href="https://www.linkedin.com/in/ss-sinchan/" target="_blank"><img src='https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1' alt='linkedin' height='60'></a> 
