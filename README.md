@@ -3,12 +3,12 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinxfactor" alt="sinxfactor" /> </p>
 
-<blockquote> Checkout my github page <a href="https://sinxfactor.github.io/" target="_blank">link</a> <a href="https://github.com/SinXfactor/bangalore-house-prediction-ml-with-site"><img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona-loading' height='30'></a></blockquote>
+<blockquote> Checkout my github page <a href="https://sinchan-s.github.io/" target="_blank">link</a> <a href="https://github.com/SinXfactor/bangalore-house-prediction-ml-with-site"><img src='https://github.githubassets.com/images/mona-loading-dark.gif' alt='mona-loading' height='30'></a></blockquote>
 
 <ul>
-<li>🔭 I’m currently working on my repo <a href="https://github.com/SinXfactor/everything_data_science" target="_blank">everything_data_science</a>.</li>
-<li> 🌱 I’m currently getting 'Hands on with <a href="https://github.com/SinXfactor/Hands-on_ML" target="_blank"><b>ML</b></a>' & SQL</li>
-<li> 💻 Notable project <a href="https://github.com/SinXfactor/graphython" target="_blank"><b>Graphython</b></a>, which is a simple GUI based presentation of python's <code>matplotlib</code> library</li>
+<li>🔭 I’m currently working on my repo <a href="https://github.com/sinchan-s/everything_data_science" target="_blank">everything_data_science</a>.</li>
+<li> 🌱 I’m currently getting 'Hands on with <a href="https://github.com/sinchan-s/Hands-on_ML" target="_blank"><b>ML</b></a>' & SQL</li>
+<li> 💻 Notable project <a href="https://github.com/sinchan-s/graphython" target="_blank"><b>Graphython</b></a>, which is a simple GUI based presentation of python's <code>matplotlib</code> library</li>
 <li> 📫 You can reach me via <a href="mailto:sinchan.tex@gmail.com">email</a> </li>
 </ul>
 
