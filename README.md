@@ -7,7 +7,7 @@
 
 <ul>
 <li>🔭 I’m currently working on my repo <a href="https://github.com/sinchan-s/everything_data_science" target="_blank">everything_data_science</a>.</li>
-<li> 🌱 I’m currently getting 'Hands on with <a href="https://github.com/sinchan-s/Hands-on_ML" target="_blank"><b>ML</b></a>' & SQL</li>
+<li> 🌱 I’m currently getting 'Hands on with <a href="https://github.com/sinchan-s/Hands-on_ML" target="_blank"><b>ML</b></a>' & exercising <a href="https://github.com/sinchan-s/ongoing-SQL" target="_blank"><b>SQL</b></a> </li>
 <li> 💻 Notable project <a href="https://github.com/sinchan-s/graphython" target="_blank"><b>Graphython</b></a>, which is a simple GUI based presentation of python's <code>matplotlib</code> library</li>
 <li> 📫 You can reach me via <a href="mailto:sinchan.tex@gmail.com">email</a> </li>
 </ul>
