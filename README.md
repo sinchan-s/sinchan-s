@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there!, I'm <strong>Sinchan</strong> </h1>
-<h3 align="left"> I am a <em>Machine Learning</em> enthusiast with <em>data wrangling</em> attributes and <em>analytical</em> well-being😉.</h3>
+<h3 align="left"> I am a <bold>Product Development Executive - Analytics</bold> and eager <em>Machine Learning</em> enthusiast with <em>data wrangling</em> attributes and <em>analytical</em> well-being😉.</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinxfactor" alt="sinxfactor" /> </p>
 
