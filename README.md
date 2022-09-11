@@ -12,6 +12,8 @@
 <li> 📫 You can reach me via <a href="mailto:sinchan.tex@gmail.com">email</a> </li>
 </ul>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -29,6 +31,7 @@
 <a href="https://opensource.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Presence:</h3>
 <a href="https://www.kaggle.com/sinchans" target="_blank"><img src='https://www.kaggle.com/static/images/tier-animation-transparent.gif' alt='github' height='60'></a>
 <a href="https://www.linkedin.com/in/ss-sinchan/" target="_blank"><img src='https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1' alt='linkedin' height='60'></a> 
+<a href="https://www.hackerrank.com/sinchan_tex" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png' alt='hackerrank' height='60'></a> 
