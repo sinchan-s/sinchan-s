@@ -19,9 +19,10 @@
 
 - 📫 You can reach me via **sinchan.tex@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blogs posts:
+- [Life Cycle of Data](https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9)   
+   
+- [Support Vector Machine (SVM) in Action — Using Streamlit](https://medium.com/@sinchan.s/support-vector-machine-svm-in-action-using-streamlit-e3bc56208a85)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
