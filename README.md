@@ -21,8 +21,10 @@
 
 ### Blogs posts:
 - [Life Cycle of Data](https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9)   
+![image](https://user-images.githubusercontent.com/63915540/192033174-14b682a1-0a07-4832-828a-5689319ba103.png)
    
 - [Support Vector Machine (SVM) in Action — Using Streamlit](https://medium.com/@sinchan.s/support-vector-machine-svm-in-action-using-streamlit-e3bc56208a85)
+![image](https://user-images.githubusercontent.com/63915540/192033430-4f1cf4cc-a0ca-447d-b38e-b53f5a9fc15e.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
