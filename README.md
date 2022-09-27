@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Everything Data Science](https://github.com/sinchan-s/everything_data_science)
 
-- 🌱 I’m currently getting **'Hands on with ML' & exercising SQL**
+- 🌱 I’m currently getting **['Hands on with ML](https://github.com/sinchan-s/Hands-on_ML)' & exercising SQL**
 
 - 👯 I’m looking to collaborate on [Graphython](https://github.com/sinchan-s/graphython)
 
@@ -20,11 +20,9 @@
 - 📫 You can reach me via **sinchan.tex@gmail.com**
 
 ### Blogs posts:
-- [Life Cycle of Data](https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9)   
-![image](https://user-images.githubusercontent.com/63915540/192033174-14b682a1-0a07-4832-828a-5689319ba103.png)
+[![image](https://user-images.githubusercontent.com/63915540/192033174-14b682a1-0a07-4832-828a-5689319ba103.png)](https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9)  
    
-- [Support Vector Machine (SVM) in Action — Using Streamlit](https://medium.com/@sinchan.s/support-vector-machine-svm-in-action-using-streamlit-e3bc56208a85)
-![image](https://user-images.githubusercontent.com/63915540/192033430-4f1cf4cc-a0ca-447d-b38e-b53f5a9fc15e.png)
+[![image](https://user-images.githubusercontent.com/63915540/192033430-4f1cf4cc-a0ca-447d-b38e-b53f5a9fc15e.png)](https://medium.com/@sinchan.s/support-vector-machine-svm-in-action-using-streamlit-e3bc56208a85)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
