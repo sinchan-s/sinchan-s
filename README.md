@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Graphython](https://github.com/sinchan-s/graphython)
 
-- 📝 I regularly write articles on [https://medium.com/@sinchan.s](https://medium.com/@sinchan.s)
+- 📝 I write articles on [https://medium.com/@sinchan.s](https://medium.com/@sinchan.s)
 
 - 💬 Ask me about **python**
 
