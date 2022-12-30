@@ -7,17 +7,17 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinchan-s&theme=gitdimmed&column=4&row=1" alt="sinchan-s" /></a> </p>
 
 
-🔭 I’m currently working on [Everything Data Science](https://github.com/sinchan-s/everything_data_science)
+🔭 - I’m currently working on [Everything Data Science](https://github.com/sinchan-s/everything_data_science)
 
-🌱 I’m currently getting **['Hands on with ML](https://github.com/sinchan-s/Hands-on_ML)' & exercising SQL**
+🌱 - I’m currently getting **['Hands on with ML](https://github.com/sinchan-s/Hands-on_ML)' & exercising SQL**
 
-👯 I’m looking to collaborate on [Graphython](https://github.com/sinchan-s/graphython)
+👯 - I’m looking to collaborate on [Graphython](https://github.com/sinchan-s/graphython)
 
-📝 I write articles on [https://medium.com/@sinchan.s](https://medium.com/@sinchan.s)
+📝 - I write articles on [https://medium.com/@sinchan.s](https://medium.com/@sinchan.s)
 
-💬 Ask me about **python**
+💬 - Ask me about **python**
 
-📫 You can reach me via **sinchan.tex@gmail.com**
+📫 - You can reach me via **sinchan.tex@gmail.com**
 
 ### Blogs posts:
 <a href="https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9" target="blank"><img src="https://user-images.githubusercontent.com/63915540/192033174-14b682a1-0a07-4832-828a-5689319ba103.png" alt="m_sinchan_"/></a>  
