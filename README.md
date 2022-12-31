@@ -7,9 +7,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinchan-s&theme=gitdimmed&column=4&row=1" alt="sinchan-s" /></a> </p>
 
 
-🔭 - I’m currently working on [Everything Data Science](https://github.com/sinchan-s/everything_data_science)
+🔭 - I’m currently working on [Everything Data Science](https://github.com/sinchan-s/everything_data_science) & [Time Series Analysis](https://github.com/sinchan-s/time-series-analysis)
 
-🌱 - I’m currently getting **['Hands on with ML](https://github.com/sinchan-s/Hands-on_ML)' & exercising SQL**
+🌱 - I’m right away getting **['Hands on with ML](https://github.com/sinchan-s/Hands-on_ML)' & exercising SQL**
 
 👯 - I’m looking to collaborate on [Graphython](https://github.com/sinchan-s/graphython)
 
