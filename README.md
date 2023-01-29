@@ -29,7 +29,7 @@
 <a href="https://twitter.com/m_sinchan_" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="m_sinchan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ss-sinchan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ss-sinchan" height="30" width="40" /></a>
 <a href="https://kaggle.com/sinchans" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="sinchans" height="30" width="40" /></a>
-<a href="https://medium.com/@sinchan.s" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" alt="@sinchan.s" height="30" width="40" /></a>
+<a href="https://medium.com/@sinchan.s" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@sinchan.s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sinchan_tex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinchan_tex" height="30" width="40" /></a>
 </p>
 
