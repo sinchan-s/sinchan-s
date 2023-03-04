@@ -1,6 +1,6 @@
-<h1 align="center">Hi There! <img src="https://user-images.githubusercontent.com/63915540/194613410-9e7d4dd6-b950-497a-84c4-8db8bce8b135.gif"  width="30px">
+<h1 align="center">Hi There! <img src="https://user-images.githubusercontent.com/63915540/194613410-9e7d4dd6-b950-497a-84c4-8db8bce8b135.gif"  width="30px">, I'm <a href="https://sinchan-s.github.io/">Sinchan</a> !!</h1>
  
-<h3 align="center">I'm <a href="https://sinchan-s.github.io/">Sinchan</a>, currently I'm working as a Product Development Executive - Analytics and Machine Learning enthusiast with Data wrangling attributes and analytical interests.</h3>
+<h3 align="center">Currently working as a Quality Assurance & Analytics Executive. Enthusiastic in Machine Learning having Data wrangling attributes and analytical coherence.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinchan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sinchan-s" /> </p>
 
