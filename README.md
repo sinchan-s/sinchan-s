@@ -9,7 +9,7 @@
 
 🔭 - I’m currently working on [Everything Data Science](https://github.com/sinchan-s/everything_data_science) & [Time Series Analysis](https://github.com/sinchan-s/time-series-analysis)
 
-🌱 - I’m right away getting **['Hands on with ML](https://github.com/sinchan-s/Hands-on_ML)' & exercising SQL**
+🌱 - I’m right away getting **[Hands on with ML](https://github.com/sinchan-s/Hands-on_ML) & exercising SQL**
 
 👯 - I’m looking to collaborate on [Graphython](https://github.com/sinchan-s/graphython)
 
