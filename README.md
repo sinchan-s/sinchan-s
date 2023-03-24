@@ -19,6 +19,8 @@
 
 📫 - You can reach me via **sinchan.tex@gmail.com**
 
+💻 - My other web-apps: [QTX-Reader](https://sinx-qtx-reader.streamlit.app/), [Fabric Parameters Predictor](https://fabric-param-predictor.streamlit.app) & [Color Consumption Predictor](https://sinchan-s-ccp-streamlit-modelst-color-pred-9yqvu3.streamlit.app/)
+
 ### Blogs posts:
 <a href="https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9" target="blank"><img src="https://user-images.githubusercontent.com/63915540/192033174-14b682a1-0a07-4832-828a-5689319ba103.png" alt="m_sinchan_"/></a>  
 
