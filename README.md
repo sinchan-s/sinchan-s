@@ -1,6 +1,6 @@
 <h1 align="center">Hi There! <img src="https://user-images.githubusercontent.com/63915540/194613410-9e7d4dd6-b950-497a-84c4-8db8bce8b135.gif"  width="30px">, I'm <a href="https://sinchan-s.github.io/">Sinchan</a> !!</h1>
  
-<h3 align="center">Currently working as a Quality Assurance & Analytics Executive. Enthusiastic in Machine Learning having Data wrangling attributes and analytical coherence.</h3>
+<h3 align="center">Currently working as a Quality Assurance & Analytics Executive. Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinchan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sinchan-s" /> </p>
 
@@ -19,9 +19,9 @@
 
 📫 - You can reach me via **sinchan.tex@gmail.com**
 
-💻 - My other web-apps: [QTX-Reader](https://sinx-qtx-reader.streamlit.app/), [Fabric Parameters Predictor](https://fabric-param-predictor.streamlit.app) & [Color Consumption Predictor](https://sinchan-s-ccp-streamlit-modelst-color-pred-9yqvu3.streamlit.app/)
+💻 - My web-apps: [QTX-Reader](https://sinx-qtx-reader.streamlit.app/), [Fabric Parameters Predictor](https://fabric-param-predictor.streamlit.app) & [Color Consumption Predictor](https://sinchan-s-ccp-streamlit-modelst-color-pred-9yqvu3.streamlit.app/)
 
-### Blogs posts:
+### Blog posts:
 <a href="https://medium.com/@sinchan.s/life-cycle-of-data-6eecc50276c9" target="blank"><img src="https://user-images.githubusercontent.com/63915540/192033174-14b682a1-0a07-4832-828a-5689319ba103.png" alt="m_sinchan_"/></a>  
 
 <a href="https://medium.com/@sinchan.s/support-vector-machine-svm-in-action-using-streamlit-e3bc56208a85" target="blank"><img src="https://user-images.githubusercontent.com/63915540/192033430-4f1cf4cc-a0ca-447d-b38e-b53f5a9fc15e.png" alt="m_sinchan_"/></a>
