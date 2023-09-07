@@ -38,7 +38,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> 
  </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
@@ -61,7 +61,10 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="40" height="40"/> 
  </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+ <a href="" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap5" width="40" height="40"/> 
+ </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
  </a> 
    
@@ -85,7 +88,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
  </a> 
    
-- Tools & Utilities   
+- Other Tools   
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
@@ -103,9 +106,10 @@
  </a> 
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
- </a> 
-   
-    
+ </a>
+
+ 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=dark&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&count_private=true&hide=html,scss,,ejs&theme=dark&line_height=10">
