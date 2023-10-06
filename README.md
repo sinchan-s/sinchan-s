@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There! <img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/2e431534-975e-4416-8847-bc6de429b824"  width="70px">, I'm Sinchan :)</h1>   
+<h1 align="center">Hi There!, I'm Sinchan :)</h1>   
 
 <h3 align="center">Currently working as a Quality Assurance & Analytics Executive. Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
 
