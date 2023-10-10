@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi There!, I'm Sinchan :)</h1>   
+<h3 align="center">Hi There!!</h3>   
+<h1 align="center">I'm Sinchan</h1>   
 
 <h3 align="center">Currently working as a Quality Assurance & Analytics Executive. Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
 
@@ -17,8 +18,6 @@
 📝 - I write articles on [https://medium.com/@sinchan.s](https://medium.com/@sinchan.s)
 
 💬 - Ask me about **python**
-
-📫 - You can reach me via **sinchan.tex@gmail.com**
 
 💻 - My web-apps: [QTX-Reader](https://sinx-qtx-reader.streamlit.app/), [Fabric Parameters Predictor](https://fabric-param-predictor.streamlit.app) & [Color Consumption Predictor](https://sinchan-s-ccp-streamlit-modelst-color-pred-9yqvu3.streamlit.app/)
 
