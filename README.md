@@ -111,6 +111,6 @@
  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=dark&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=light&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&layout=donut">
 </p>   
