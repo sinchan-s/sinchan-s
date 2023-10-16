@@ -113,5 +113,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=aura&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&layout=donut&theme=aura">
 </p>   
