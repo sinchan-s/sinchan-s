@@ -2,7 +2,8 @@
 <h3 align="center">Hi There!!</h3>   
 <h1 align="center">I'm Sinchan</h1>   
 
-<h3 align="center">Currently working as a Quality Assurance & Analytics Executive. Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
+<h3 align="center">Currently working as a Quality Assurance & Analytics Executive.</h3> 
+<h3 align="center">Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinchan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sinchan-s" /> </p>
 
@@ -111,6 +112,6 @@
  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=light&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=aura&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&layout=donut">
 </p>   
