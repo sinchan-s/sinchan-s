@@ -18,7 +18,7 @@
 
 📝 - I write articles on [https://medium.com/@sinchan.s](https://medium.com/@sinchan.s)
 
-💬 - Ask me about **python**
+💬 - Ask me about **[python](https://github.com/sinchan-s/streamlit-webapps)**
 
 💻 - My web-apps: [QTX-Reader](https://sinx-qtx-reader.streamlit.app/), [Fabric Parameters Predictor](https://fabric-param-predictor.streamlit.app) & [Color Consumption Predictor](https://sinchan-s-ccp-streamlit-modelst-color-pred-9yqvu3.streamlit.app/)
 
