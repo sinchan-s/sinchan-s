@@ -27,88 +27,30 @@
 
 <a href="https://medium.com/@sinchan.s/support-vector-machine-svm-in-action-using-streamlit-e3bc56208a85" target="blank"><img src="https://user-images.githubusercontent.com/63915540/192033430-4f1cf4cc-a0ca-447d-b38e-b53f5a9fc15e.png" alt="m_sinchan_"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_sinchan_" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="m_sinchan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ss-sinchan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ss-sinchan" height="30" width="40" /></a>
-<a href="https://kaggle.com/sinchans" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="sinchans" height="30" width="40" /></a>
-<a href="https://medium.com/@sinchan.s" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@sinchan.s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sinchan_tex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinchan_tex" height="30" width="40" /></a>
-</p>
+- Connect with me:
+  
+|<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="m_sinchan_" height="30" width="40" />|<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ss-sinchan" height="30" width="40" />|<img align="center" src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="sinchans" height="30" width="40" />|<img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@sinchan.s" height="30" width="40" />|<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinchan_tex" height="30" width="40" />|
+|---|---|---|---|---|
 
-<h3 align="left">Languages:</h3>
-<p align="left">
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> 
- </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
- </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> 
- </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> 
- </a> 
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
- </a> 
-</p>   
+- Languages:
+
+|<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>|
+|---|---|---|---|---|
    
-- Web Utils   
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
- </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="40" height="40"/> 
- </a> 
- <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap5" width="40" height="40"/> 
- </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
- </a> 
+- Web Utils
+
+|<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="nodejs" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap5" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>|
+|---|---|---|---|
    
 - Python Libraries
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
- </a> 
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
- </a> 
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> 
- </a> 
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
- </a> 
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
- </a> 
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
- </a> 
+  
+|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>|<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>|
+|---|---|---|---|---|---|
    
-- Other Tools   
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a> 
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="40" height="40"/> 
- </a> 
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
- </a> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
- </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> 
- </a> 
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
- </a>
-
+- Other Tools
+  
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/>|<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>|
+|---|---|---|---|---|---|
  
 
 <p align="center">
