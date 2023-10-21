@@ -54,6 +54,6 @@
  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=aura&line_height=33&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&layout=donut&theme=aura">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchan-s&count_private=true&show_icons=true&theme=transparent&line_height=33&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchan-s&layout=donut&theme=transparent">
 </p>   
