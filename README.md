@@ -1,9 +1,9 @@
 
-<h3 align="center">Hi There!!</h3>   
-<h1 align="center">I'm Sinchan</h1>   
+<h3 align="center">Hi There!!, I'm</h3>   
+<h1 align="center">Sinchan</h1>   
 
-<h3 align="center">Currently working as a Quality Assurance & Analytics Executive.</h3> 
-<h3 align="center">Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
+<h3 align="center">👨‍💻 - Currently working as a Quality Assurance & Analytics Executive.</h3> 
+<h3 align="center">🤩 - Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinchan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sinchan-s" /> </p>
 
