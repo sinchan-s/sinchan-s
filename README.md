@@ -1,6 +1,6 @@
 
-<h3 align="center">Hi There!!, <img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/6b772468-3ce1-4157-a61a-983d57bceb37" align="center" width=40></h3>      
-<h1 align="center">I'm Sinchan</h1>   
+<h1 align="center">Hey I'm Sinchan</h1>   
+<h3 align="center"><img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/28da786d-ea7e-4b27-99a4-4e4967c695d6" width=60 align="center"></h3>      
 
 <h3 align="center">👨‍💻 - Currently working as a Quality Assurance & Analytics Executive.</h3> 
 <h3 align="center">🤩 - Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
