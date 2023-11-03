@@ -1,6 +1,5 @@
 
-<h3 align="center">Hi There!!, </h3>   
-<img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/6b772468-3ce1-4157-a61a-983d57bceb37" width=40>   
+<h3 align="center">Hi There!!, <img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/6b772468-3ce1-4157-a61a-983d57bceb37" align="center" width=40></h3>      
 <h1 align="center">I'm Sinchan</h1>   
 
 <h3 align="center">👨‍💻 - Currently working as a Quality Assurance & Analytics Executive.</h3> 
