@@ -1,9 +1,9 @@
 
-<h1 align="center">Hey I'm Sinchan</h1>   
-<h3 align="center"><img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/28da786d-ea7e-4b27-99a4-4e4967c695d6" width=60 align="center"></h3>      
+<h2 align="center"><img src="https://github.com/sinchan-s/sinchan-s/assets/63915540/28da786d-ea7e-4b27-99a4-4e4967c695d6" width=80 align="center"></h2>      
+<h3 align="center">Hey I'm Sinchan</h3>   
 
-<h3 align="center">👨‍💻 - Currently working as a Quality Assurance & Analytics Executive.</h3> 
-<h3 align="center">🤩 - Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</h3>
+<p align="center">👨‍💻 - Currently working as a Quality Assurance & Analytics Executive.</p> 
+<p align="center">🤩 - Enthusiastic in Machine Learning using Data wrangling attributes and Analytical coherence.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinchan-s&label=Profile%20views&color=0e75b6&style=flat" alt="sinchan-s" /> </p>
 
